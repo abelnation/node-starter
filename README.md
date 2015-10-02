@@ -36,3 +36,9 @@ To see how api routes are implemented, check out: `src/servers/frontend/api/v1.e
 
 Check out: `src/client/jsx/app.jsx`
 
+Build client app with:
+
+```
+grunt build
+```
+
