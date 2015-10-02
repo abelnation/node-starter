@@ -1,0 +1,15 @@
+
+# Node
+node_modules
+
+# Bower installed files
+src/client/js/vendor/bower
+
+# Webpack compiled js
+src/client/js/main.js*
+
+# IDE Files
+.idea
+
+# Test Result Files
+test_results
