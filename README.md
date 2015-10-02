@@ -18,6 +18,15 @@ Technologies include:
 
 ## Getting started
 
+### Initial Setup
+
+```
+brew install node          # if you don't have node
+npm install -g grunt-cli   # if you don't have grunt
+npm install
+bower install
+```
+
 ### Tests
 
 Check out: `src/test/unit/test-spec.es6`
