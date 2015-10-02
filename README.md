@@ -25,6 +25,9 @@ brew install node          # if you don't have node
 npm install -g grunt-cli   # if you don't have grunt
 npm install
 bower install
+
+# Test it out
+grunt build test
 ```
 
 ### Tests
